@@ -2,10 +2,10 @@
   <div id="badges">
     <h1>Hi there 👋</h1>
     <ul>
-      <li>- 🔭 I’m currently working on Web3 infrastructure</li>
-      <li>- 👯 I’m looking to collaborate on IT Solutions</li>
-      <li>- 🤔 I’m currently teaching CMS for digital agencies</li>
-      <li>- ⚡ Fun fact: You are in a matrix</li>
+      <p>- 🔭 I’m currently working on Web3 infrastructure</p>
+      <p>- 👯 I’m looking to collaborate on IT Solutions</p>
+      <p>- 🤔 I’m currently teaching CMS for digital agencies</p>
+      <p>- ⚡ Fun fact: You are in a matrix</p>
     </ul>
     <a href="https://www.linkedin.com/in/yasser-elmahfoudi-69b754114/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
