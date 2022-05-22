@@ -35,6 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div align="center">
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,8 +48,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  </div>
-  <div>
+</div>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -57,8 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" **alt="canva" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" **alt="codepen" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
 </div>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="figma" **alt="figma" width="40" height="40"/>
@@ -68,7 +67,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" **alt="php" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="symfony" **alt="symfony" width="40" height="40"/>
+</div>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" **alt="visualstudio" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" **alt="woocommerce" width="40" height="40"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" **alt="woocommerce" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" **alt="codepen" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
+</div>
 </div>
