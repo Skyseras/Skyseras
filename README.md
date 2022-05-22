@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <div id="badges">
+    <h1>Hi there 👋</h1>
     <a href="https://www.linkedin.com/in/yasser-elmahfoudi-69b754114/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
