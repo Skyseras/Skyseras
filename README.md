@@ -2,7 +2,6 @@
   <div id="badges">
     <h1>Hi there 👋</h1>
     <ul>
-      <li></li>
       <li>- 🔭 I’m currently working on Web3 infrastructure</li>
       <li>- 👯 I’m looking to collaborate on IT Solutions</li>
       <li>- 🤔 I’m currently teaching CMS for digital agencies</li>
