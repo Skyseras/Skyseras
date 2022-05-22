@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/yasser-elmahfoudi-69b754114/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +10,9 @@
     </a>
   </div>
   <img src="https://visitor-badge.glitch.me/badge?page_id=skyseras.skyseras" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <div>
+    <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="300"/>
+  </div>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
