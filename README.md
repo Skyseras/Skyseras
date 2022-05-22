@@ -72,7 +72,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" **alt="visualstudio" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" **alt="woocommerce" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" **alt="codepen" width="40" height="40"/>
+</div>
+ <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" fill="white" title="codepen" **alt="codepen" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
 </div>
 </div>
