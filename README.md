@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <div id="badges">
     <h1>Hi there 👋</h1>
@@ -12,7 +10,7 @@
   </div>
   <img src="https://visitor-badge.glitch.me/badge?page_id=skyseras.skyseras" alt=""/>
   <div>
-    <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="300"/>
+    <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="600"/>
   </div>
 </div>
 <div align="center">
