@@ -18,6 +18,14 @@
   <div>
     <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="600"/>
   </div>
+  <div>
+    <img src="[https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyseras&hide_progress=true)](https://github.com/Skyseras/github-readme-stats)" width="600"/>
+  </div>
+  <div>
+    <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="600"/>
+  </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyseras&hide_progress=true)](https://github.com/Skyseras/github-readme-stats)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyseras&layout=compact)](https://github.com/Skyseras/github-readme-stats)
 
 </div>
