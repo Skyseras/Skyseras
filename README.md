@@ -2,8 +2,8 @@
   <div id="badges">
     <h1>Hi there 👋</h1>
     <ul>
-      <p>🔭 I’m currently working on Web3 infrastructure</p>
-      <p>👯 I’m looking to collaborate on IT Solutions</p>
+      <p>🔭 I’m currently working on solutions for businesses that use Salesforce platform.</p>
+      <p>👯 I’m looking to collaborate on sales processes, customer service, marketing campaigns.</p>
       <p>🤔 I’m currently teaching CMS for digital agencies</p>
       <p>⚡ Fun fact: You are in a matrix</p>
     </ul>
