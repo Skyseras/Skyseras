@@ -18,7 +18,8 @@
   <div>
     <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="600"/>
   </div>
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b210e3618f26874cd0faec293077726916b1bf81ab400ece44cfeed24eb800d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7477697a656c69737361266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/b210e3618f26874cd0faec293077726916b1bf81ab400ece44cfeed24eb800d8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7477697a656c69737361266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Elissa Twizeyimana Language Stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=twizelissa&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyseras&layout=compact)](https://github.com/Skyseras/github-readme-stats)
+
 </div>
 
 ---
